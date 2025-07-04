@@ -1,0 +1,10 @@
+.collection-item {
+    margin: 0 20px 0 20px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.list-group-item {
+    margin-bottom: 10px;
+}
